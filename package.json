@@ -1,19 +1,19 @@
 {
-  "name": "api1",
+  "name": "curso-api-rest-javascript-practico",
   "version": "1.0.0",
-  "description": "",
+  "description": "Curso Práctico de Consumo de API REST con JavaScript",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlbertoArroyo/api1.git"
+    "url": "git+https://github.com/platzi/curso-api-rest-javascript-practico.git"
   },
-  "author": "Alberto Arroyo",
+  "author": "@juandc :)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlbertoArroyo/api1/issues"
+    "url": "https://github.com/platzi/curso-api-rest-javascript-practico/issues"
   },
-  "homepage": "https://github.com/AlbertoArroyo/api1#readme"
+  "homepage": "https://github.com/platzi/curso-api-rest-javascript-practico#readme"
 }
